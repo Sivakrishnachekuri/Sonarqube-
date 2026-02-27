@@ -177,7 +177,7 @@ step 1: launch t2.medium machine [4GB]
 
 step 2: connect to that server
 
-step 3: switch to root user [ sudo su - ]
+step 3: switch to root user [ sudo su - ] 
 
 step 4: install java
 
